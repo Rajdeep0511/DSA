@@ -16,7 +16,7 @@ int A(int n,int m)
 int main()
 {
   int n,m;
-  cout<<"enter the power of x ";
+  cout<<"enter the power of x;";
   cin>>n;
   m=n;
   A(n,m);
