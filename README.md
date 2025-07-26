@@ -17,6 +17,4 @@ Trees
 
 Algorithms
 
-Sorting Algorithms
-
-Searching Algorithms
+Sorting Algorithms <br>Searching Algorithms
